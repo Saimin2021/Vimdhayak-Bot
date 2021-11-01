@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://i.ibb.co/KV81xXM/Vimdhayak-bot.jpg" alt="Xeon" width="170" />
 
-## Vimdhayak Bot
+## personal Bot
 
 </div>
 
@@ -9,7 +9,7 @@
 <a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Language&message=Hindi and English&color=blue"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/DGXeon"><img title="Author" src="https://img.shields.io/badge/Author-Xeon-blue.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/saimin"><img title="Author" src="https://img.shields.io/badge/Author-Xeon-blue.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
 <a href="#"><img title="Xeon" src="https://img.shields.io/static/v1?label=WHATSAPP&message=Automated-Bot&color=blue"></a>
